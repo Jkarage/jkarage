@@ -22,7 +22,7 @@ Passionate about learning and working with latest technologies, keen interest to
  - 💬 Ask me about: DevOps, ML Algorithms, Coding, OOP, DSA.
  - ✉️ Ping me through: Any channel you prefer the links are above.
  - 😄 Pronouns: He/Him
- - ⚡ Fun Fact: I like it when things get more tense. 
+ - ⚡ Fun Fact: I like it when things get more tense(A joke). 
 
 -  🌻 Github Stats
 
