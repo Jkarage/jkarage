@@ -23,7 +23,7 @@ Passionate about learning and working with latest technologies, keen interest to
  - ✉️ Ping me through: Any channel you prefer the links are above.
  - 😄 Pronouns: He/Him
  - ⚡ Fun Fact: I like it when things get more tense(A joke). 
- -     Wanna task me with a gig ? here: <a href="https://www.upwork.com/freelancers/~01d827fdb4e0380e6e?viewMode=1">Upwork Profile</a> 
+ -    Wanna task me with a gig ? here: <a href="https://www.upwork.com/freelancers/~01d827fdb4e0380e6e?viewMode=1">Upwork Profile</a> 
 
 -  🌻 Github Stats
 
