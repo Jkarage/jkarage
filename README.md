@@ -18,7 +18,7 @@ A telecommunications engineering student and a software developer from Tanzania 
 
 Passionate about learning and working with latest technologies, keen interest towards DevOps technologies, AI and Software development.
 
- - 🔛 I’m currently working on DevOps, Machine learning and full stack software engineering.
+ - 🔛 I’m currently working on DevOps, Machine learning.
  - 💬 Ask me about: DevOps, ML Algorithms, Coding, OOP, DSA.
  - ✉️ Ping me through: Any channel you prefer the links are above.
  - 😄 Pronouns: He/Him
