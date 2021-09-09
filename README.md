@@ -1,4 +1,4 @@
-# Hey, I'm Karage <img src="https://raw.githubusercontent.com/Jkarage/Jkarage/master/static/gifs/Hi.gif" width="30px">
+# Hey, I'm Kallaghe <img src="https://raw.githubusercontent.com/Jkarage/Jkarage/master/static/gifs/Hi.gif" width="30px">
 
 <a href="https://www.linkedin.com/in/joseph-karage-3b5966186/">
   <img align="left" alt=" Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
